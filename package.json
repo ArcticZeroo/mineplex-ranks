@@ -1,0 +1,26 @@
+{
+  "name": "mineplex-ranks",
+  "version": "0.0.1",
+  "description": "Manage mineplex ranks",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArcticZeroo/mineplex-ranks.git"
+  },
+  "keywords": [
+    "mineplex",
+    "ranks",
+    "mineplex",
+    "ranks",
+    "minecraft"
+  ],
+  "author": "ArcticZeroo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArcticZeroo/mineplex-ranks/issues"
+  },
+  "homepage": "https://github.com/ArcticZeroo/mineplex-ranks#readme"
+}
