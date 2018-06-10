@@ -1,6 +1,6 @@
 {
   "name": "mineplex-ranks",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Manage mineplex ranks",
   "main": "index.js",
   "scripts": {
